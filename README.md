@@ -1,15 +1,15 @@
+<!-- DARK MODE DEVOPS PROFILE -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Aniket%20Choudhari&fontSize=42&fontColor=58A6FF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Aniket%20Choudhari&fontColor=ffffff&fontSize=45&animation=fadeIn" />
 
-### 🚀 DevOps • Cloud • Kubernetes Engineer  
-**@ Yiron Technology**
+### 🚀 DevOps | Cloud | Kubernetes Engineer  
+**Yiron Technology**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DevOps-0D1117?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
-  <img src="https://img.shields.io/badge/Cloud-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-</p>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+%7C+Kubernetes+%7C+CI%2FCD;Infrastructure+as+Code+%7C+Terraform;Always+Learning+Always+Building" />
 
 </div>
 
@@ -17,70 +17,83 @@
 
 ## 🧑‍💻 About Me
 
-I am a **DevOps / Cloud Engineer** with real-world experience in **automation, CI/CD, Kubernetes, and multi-cloud infrastructure**.  
-I focus on building **reliable, scalable, and production-ready systems** using modern DevOps practices.
+I am a **DevOps Engineer** with strong hands-on experience in designing, automating, and managing **cloud-native infrastructure**.  
+I focus on **high availability, performance optimization, and automation-first solutions**.
 
-🔹 Cloud-Native Architecture  
-🔹 Infrastructure as Code  
-🔹 CI/CD Automation  
-🔹 Linux & Production Troubleshooting  
+✔ Production-grade CI/CD pipelines  
+✔ Kubernetes & container orchestration  
+✔ Multi-cloud environments  
+✔ Infrastructure as Code (Terraform)  
+✔ Linux troubleshooting & reliability  
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/aniket-choudhari10">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:aniket97choudhari@outlook.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/aniket-choudhari10">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="mailto:aniket97choudhari@outlook.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 </p>
 
 ---
 
-## ⚙️ Tech Arsenal
+## ⚙️ Tech Stack
 
 ### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
-![GCP](https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+<p>
+<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
+<img src="https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
+</p>
 
-### 🚀 DevOps & CI/CD
-![Jenkins](https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
-![SonarQube](https://img.shields.io/badge/SonarQube-0D1117?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+### 🔄 CI/CD & DevOps
+<p>
+<img src="https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=FC6D26"/>
+<img src="https://img.shields.io/badge/SonarQube-0D1117?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD"/>
+</p>
 
-### 📦 Containers & IaC
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=0DB7ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=7B42BC)
+### 📦 Containers & Orchestration
+<p>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=0DB7ED"/>
+<img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+</p>
 
----
-
-## 📈 GitHub Performance
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aniket101010&theme=github_dark&hide_border=true&show_icons=true" />
-<img src="https://streak-stats.demolab.com?user=aniket101010&theme=github-dark&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket101010&theme=github_dark&hide_border=true&layout=compact" />
-
-</div>
-
----
-
-## 👁️ Profile Views
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=aniket101010&color=12" />
+### 🏗 Infrastructure as Code
+<p>
+<img src="https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=7B42BC"/>
 </p>
 
 ---
 
-<div align="center">
+## 📊 GitHub Analytics
 
-### 🌑 *Built for GitHub Dark Mode*  
-**Clean • Professional • DevOps-Focused**
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aniket101010&theme=github_dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=aniket101010&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket101010&theme=github_dark&hide_border=true&layout=compact"/>
+</p>
 
-</div>
+---
+
+## 🧠 Why Me?
+
+🚀 Automation-first mindset  
+⚙️ Strong Kubernetes & CI/CD expertise  
+☁️ Multi-cloud experience  
+📦 Infrastructure as Code specialist  
+🔍 Production issue troubleshooting  
+
+---
+
+## 👀 Visitors
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=aniket101010&color=12"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
